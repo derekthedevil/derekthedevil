@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm pratham, a full-time full-stack developer </div>  
   
@@ -82,16 +79,13 @@
 <br/>  
 
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
+## Recent Blog Posts  
   
 
 <br/>  
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8daydw9kh8zqqppzw4o9p13ji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-<br />
+<br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
