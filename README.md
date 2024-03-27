@@ -84,8 +84,10 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8daydw9kh8zqqppzw4o9p13ji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8daydw9kh8zqqppzw4o9p13ji&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div> 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pratham-bhalerao-at-xeric" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pratham-bhalerao-at-xeric?trk=profile-badge">Pratham Bhalerao</a></div>
+              
 
 <br/>  
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ----
